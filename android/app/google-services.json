@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1027651980688",
+    "project_id": "flutterapp-b328e",
+    "storage_bucket": "flutterapp-b328e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027651980687:android:d1c5ca0e8a4345f6114ffa",
+        "android_client_info": {
+          "package_name": "com.flutter.miapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXirpRKVp3CvVSVxAgUANjavr1X55pabU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027651980687:android:811d7119ba209ebb114ffa",
+        "android_client_info": {
+          "package_name": "com.tasker.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXirpRKVp3CvVSVxAgUANjavr1X55pabU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
